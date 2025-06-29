@@ -41,9 +41,9 @@ src/test/java/org/example/
 - **Language:** Java  
 - **Automation:** Selenium WebDriver  
 - **Test Framework:** TestNG  
-- **Build Tool:** Maven (or IntelliJ default)  
+- **Build Tool:** Maven   
 - **Browser Driver:** ChromeDriver  
-- **IDE:** IntelliJ IDEA / Eclipse
+- **IDE:** Visual Studio Code 
 
 ---
 
